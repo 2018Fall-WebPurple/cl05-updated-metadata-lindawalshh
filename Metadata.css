@@ -1,0 +1,32 @@
+/*
+* Linda Walsh
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { 
+    background-color: floralwhite;
+    font-family: "Marker Felt", Luminari, "Fantasy Fonts";
+}
+h1 { text-decoration: overline underline;
+    font-size: 300%;
+    font-weight: 100;
+    text-align: center;
+    
+}
+header {text-align: center;
+    background-color: lightyellow; }
+main { background-color: lightgoldenrodyellow;}
+footer { background-color: beige; }
+#playbill {
+    height: 200px;
+    width: 600px;
+}
